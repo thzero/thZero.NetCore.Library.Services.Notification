@@ -1,4 +1,4 @@
-thZero.NetCore.Library.MailKit
+thZero.NetCore.Library.Services.Notification
 Copyright (C) 2016-2018 thZero.com
 
 <development [at] thzero [dot] com>
